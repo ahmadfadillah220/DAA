@@ -1,0 +1,18 @@
+
+Algoritma Hasil Penjualan?
+Algoritma:
+Step 1 Mendeklarasikan Hasil penjualan
+Step 2 Masukan Hasil Jual
+Step 3 Jika hasil Jual <=200000 return hasil jual*10%+10000 dan Stop, Jika tidak kembali ke step 4. 
+Step 4.Jika hasil jual di atas 200000 s.d 500000 return hasil jual*15%+20000 dan Stop, Jika tidak lanjut ke step 5.
+Step 5. Jika hasil jual diatas 500000 return hasil jual*20%+30000
+Step 6. Jika anda tidak menginput hasil jual, Output"Anda Tidak mendapat apa-apa".
+
+pseudocode:
+deklarasi
+hasiljual, dapat.
+Jika hasil jual <=200000=hasil jual*10%+10000=dapat, jika Iya(stop).
+Jika hasil jual >200000 sampai dengan 500000
+= hasil jual*15%+20000= dapat, Jika iya(stop).
+Jika hasil Jual >500000=hasil jual*20%+30000=  dapat, jika iya(stop).
+Jika memasukan selain diatas output"anda tidak mendapatkan apa-apa".
